@@ -1,7 +1,0 @@
-torch
-torchvision
-Pillow
-transformers
-pandas
-numpy
-geopy
