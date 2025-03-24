@@ -8,7 +8,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 35.jpg,1051,10.427806°E,51.903250°N,Goslar Cathedral,https://en.wikipedia.org/wiki/Goslar_Cathedral,1606
 40.jpg,1061,8.4424°E,49.3172°N,Speyer Cathedral,https://en.wikipedia.org/wiki/Speyer_Cathedral,49742
 45.jpg,1063,139.55583°E,35.32472°N,Tsurugaoka Hachimangū,https://en.wikipedia.org/wiki/Tsurugaoka_Hachimang%C5%AB,21423
-50.jpg,1068,0.1147°E,52.2120°N,Cambridge Castle,https://en.wikipedia.org/wiki/Cambridge_Castle,8585
 55.jpg,1070,2.0800°W,52.5142°N,Dudley Castle,https://en.wikipedia.org/wiki/Dudley_Castle,29438
 60.jpg,1076,36.301944°E,33.511667°N,Citadel of Damascus,https://en.wikipedia.org/wiki/Citadel_of_Damascus,13752
 65.jpg,1080,4.9085°W,41.3090°N,Castle of La Mota,https://en.wikipedia.org/wiki/Castle_of_La_Mota,6964
@@ -879,7 +878,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 4525.jpg,1735,77.94639°W,34.06056°N,Orton Plantation,https://en.wikipedia.org/wiki/Orton_Plantation,15724
 4530.jpg,1735,76.78472°W,37.94000°N,"Sabine Hall (Warsaw, Virginia)","https://en.wikipedia.org/wiki/Sabine_Hall_(Warsaw,_Virginia)",2322
 4535.jpg,1735,75.43528°W,38.91361°N,Parson Thorne Mansion,https://en.wikipedia.org/wiki/Parson_Thorne_Mansion,686
-4540.jpg,1735,0.0349°E,51.3841°N,Bromley Common,https://en.wikipedia.org/wiki/Bromley_Common,3636
 4545.jpg,1736,80.84566°W,32.02223°N,Tybee Island Light,https://en.wikipedia.org/wiki/Tybee_Island_Light,4262
 4550.jpg,1736,12.57111°E,55.79528°N,Hermitage Hunting Lodge,https://en.wikipedia.org/wiki/Hermitage_Hunting_Lodge,5711
 4555.jpg,1736,73.7484583°W,42.6540194°N,Quackenbush House,https://en.wikipedia.org/wiki/Quackenbush_House,1399
@@ -1568,7 +1566,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 8035.jpg,1798,69.66528°W,44.74722°N,Samuel Weston Homestead,https://en.wikipedia.org/wiki/Samuel_Weston_Homestead,126
 8040.jpg,1798,73.30000°W,43.63639°N,"Simeon Smith House (West Haven, Vermont)","https://en.wikipedia.org/wiki/Simeon_Smith_House_(West_Haven,_Vermont)",121
 8045.jpg,1798,70.23722°W,43.70778°N,Thomas Skelton House,https://en.wikipedia.org/wiki/Thomas_Skelton_House,141
-8050.jpg,1798,75.53278°W,37.84750°N,Wharton Place,https://en.wikipedia.org/wiki/Wharton_Place,426
 8055.jpg,1798,71.471215°W,42.358650°N,Redstone School,https://en.wikipedia.org/wiki/Redstone_School,1647
 8060.jpg,1799,0.11583°W,51.51528°N,"Hunterian Museum, London","https://en.wikipedia.org/wiki/Hunterian_Museum,_London",13158
 8065.jpg,1799,3.3353°W,50.9016°N,Coldharbour Mill Working Wool Museum,https://en.wikipedia.org/wiki/Coldharbour_Mill_Working_Wool_Museum,1778
@@ -2338,7 +2335,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 11960.jpg,1835,75.67444°W,39.78639°N,A. Armstrong Farm,https://en.wikipedia.org/wiki/A._Armstrong_Farm,188
 11965.jpg,1835,84.57611°W,37.61917°N,Billy Ball House,https://en.wikipedia.org/wiki/Billy_Ball_House,80
 11970.jpg,1835,82.90194°W,39.48361°N,"Bellevue (Kingston, Ohio)","https://en.wikipedia.org/wiki/Bellevue_(Kingston,_Ohio)",113
-11975.jpg,1835,83.48583°W,42.28167°N,David and Elizabeth Bell Boldman House,https://en.wikipedia.org/wiki/David_and_Elizabeth_Bell_Boldman_House,178
 11980.jpg,1835,77.54333°W,35.76111°N,"Bracebridge Hall (Tarboro, North Carolina)","https://en.wikipedia.org/wiki/Bracebridge_Hall_(Tarboro,_North_Carolina)",776
 11985.jpg,1835,73.44389°W,40.83778°N,Eliphas Buffett House,https://en.wikipedia.org/wiki/Eliphas_Buffett_House,257
 11990.jpg,1835,81.95694°W,35.36972°N,Carrier Houses,https://en.wikipedia.org/wiki/Carrier_Houses,233
@@ -2681,7 +2677,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 13700.jpg,1845,84.05111°W,36.40889°N,Kincaid-Howard House,https://en.wikipedia.org/wiki/Kincaid-Howard_House,366
 13705.jpg,1845,85.65750°W,34.53028°N,Vance C. Larmore House,https://en.wikipedia.org/wiki/Vance_C._Larmore_House,154
 13710.jpg,1845,75.05722°W,40.34361°N,"Longland (Holicong, Pennsylvania)","https://en.wikipedia.org/wiki/Longland_(Holicong,_Pennsylvania)",548
-13715.jpg,1845,74.68389°W,40.41389°N,"Maplewood (Montgomery Township, New Jersey)","https://en.wikipedia.org/wiki/Maplewood_(Montgomery_Township,_New_Jersey)",161
 13720.jpg,1845,84.79306°W,38.86806°N,Merit–Tandy Farmstead,https://en.wikipedia.org/wiki/Merit%E2%80%93Tandy_Farmstead,50
 13725.jpg,1845,78.80000°W,43.28083°N,Morse Cobblestone Farmhouse,https://en.wikipedia.org/wiki/Morse_Cobblestone_Farmhouse,143
 13730.jpg,1845,71.15472°W,41.70889°N,Nathan Read House,https://en.wikipedia.org/wiki/Nathan_Read_House,133
@@ -3232,7 +3227,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 16485.jpg,1858,121.533625°W,36.840388°N,Benjamin Wilcox House,https://en.wikipedia.org/wiki/Benjamin_Wilcox_House,181
 16490.jpg,1859,5.85583°E,53.01750°N,"De Deels, Vegelinsoord","https://en.wikipedia.org/wiki/De_Deels,_Vegelinsoord",103
 16495.jpg,1859,79.35750°W,43.65250°N,Cherry Street Hotel,https://en.wikipedia.org/wiki/Cherry_Street_Hotel,896
-16500.jpg,1859,81.88222°W,34.91083°N,South Carolina School for the Deaf and the Blind,https://en.wikipedia.org/wiki/South_Carolina_School_for_the_Deaf_and_the_Blind,1092
 16505.jpg,1859,77.74333°W,36.15444°N,Bellamy's Mill,https://en.wikipedia.org/wiki/Bellamy%27s_Mill,393
 16510.jpg,1859,88.25833°W,38.24972°N,Old Morrison Mill,https://en.wikipedia.org/wiki/Old_Morrison_Mill,246
 16515.jpg,1859,0.5647°W,51.7608°N,Berkhamsted Town Hall,https://en.wikipedia.org/wiki/Berkhamsted_Town_Hall,442
@@ -4204,7 +4198,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 21510.jpg,1880,153.0279°E,27.4601°S,"Bellmount, Spring Hill","https://en.wikipedia.org/wiki/Bellmount,_Spring_Hill",156
 21515.jpg,1880,94.42056°W,35.38917°N,Bonneville House,https://en.wikipedia.org/wiki/Bonneville_House,191
 21520.jpg,1880,71.09333°W,42.47944°N,Charles Buck House,https://en.wikipedia.org/wiki/Charles_Buck_House,101
-21525.jpg,1880,104.45480°W,38.01204°N,"Butler House (Pueblo, Colorado)","https://en.wikipedia.org/wiki/Butler_House_(Pueblo,_Colorado)",243
 21530.jpg,1880,111.49417°W,40.63944°N,James Cassidy House,https://en.wikipedia.org/wiki/James_Cassidy_House,46
 21535.jpg,1880,73.04333°W,41.39361°N,Chatfield Farmstead,https://en.wikipedia.org/wiki/Chatfield_Farmstead,247
 21540.jpg,1880,84.22000°W,42.82472°N,Hezekiah W. and Sarah E. Fishell Cobb House,https://en.wikipedia.org/wiki/Hezekiah_W._and_Sarah_E._Fishell_Cobb_House,80
@@ -4690,7 +4683,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 24030.jpg,1888,28.1871833°E,25.7470389°S,Old Netherlands Bank building,https://en.wikipedia.org/wiki/Old_Netherlands_Bank_building,640
 24035.jpg,1888,71.214°W,46.8063°N,Quebec City Armoury,https://en.wikipedia.org/wiki/Quebec_City_Armoury,3032
 24040.jpg,1888,3.03381°W,53.74898°N,"Lifeboat Monument, St Annes","https://en.wikipedia.org/wiki/Lifeboat_Monument,_St_Annes",408
-24045.jpg,1888,12.5142°E,55.7508°N,Vangede Battery,https://en.wikipedia.org/wiki/Vangede_Battery,100
 24050.jpg,1889,90.55583°W,41.06278°N,Alexis Opera House,https://en.wikipedia.org/wiki/Alexis_Opera_House,217
 24055.jpg,1889,81.820207°W,40.579652°N,Boyd School,https://en.wikipedia.org/wiki/Boyd_School,153
 24060.jpg,1889,73.8950368°W,41.6880603°N,Ely Hall,https://en.wikipedia.org/wiki/Ely_Hall,420
@@ -5983,7 +5975,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 30645.jpg,1906,17.410969°E,46.584908°N,Marcali Synagogue,https://en.wikipedia.org/wiki/Marcali_Synagogue,208
 30650.jpg,1906,19.07678000°E,47.51587000°N,Museum of Fine Arts (Budapest),https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_(Budapest),21668
 30655.jpg,1906,82.72583°W,41.44750°N,"No. 5 Fire Station (Sandusky, Ohio)","https://en.wikipedia.org/wiki/No._5_Fire_Station_(Sandusky,_Ohio)",191
-30660.jpg,1906,78.442°W,39.558°N,Kessler Tunnel,https://en.wikipedia.org/wiki/Kessler_Tunnel,468
 30665.jpg,1906,116.200329°W,43.613470°N,Belgravia Building,https://en.wikipedia.org/wiki/Belgravia_Building,347
 30670.jpg,1906,111.39889°W,40.91806°N,Boyden Block,https://en.wikipedia.org/wiki/Boyden_Block,111
 30685.jpg,1906,71.090500°W,42.347361°N,Fenway Studios,https://en.wikipedia.org/wiki/Fenway_Studios,1147
@@ -6689,7 +6680,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 34325.jpg,1914,72.51306°W,44.20167°N,Woodbury Graded School,https://en.wikipedia.org/wiki/Woodbury_Graded_School,131
 34330.jpg,1914,84.38972°W,33.75611°N,Healey Building,https://en.wikipedia.org/wiki/Healey_Building,2102
 34335.jpg,1914,77.949068°W,34.237681°N,Murchison Building,https://en.wikipedia.org/wiki/Murchison_Building,1832
-34340.jpg,1914,0.1307°W,51.5140°N,Crab Tree Club,https://en.wikipedia.org/wiki/Crab_Tree_Club,534
 34345.jpg,1914,74.3245250°E,31.55917°N,Masonic Temple (Lahore),https://en.wikipedia.org/wiki/Masonic_Temple_(Lahore),5843
 34350.jpg,1914,75.91167°W,43.97306°N,Watertown Masonic Temple,https://en.wikipedia.org/wiki/Watertown_Masonic_Temple,574
 34360.jpg,1914,71.09444°W,42.38583°N,"Central Library (Somerville, Massachusetts)","https://en.wikipedia.org/wiki/Central_Library_(Somerville,_Massachusetts)",444
@@ -7011,7 +7001,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 35960.jpg,1918,89.217972°W,37.715944°N,Shryock Auditorium (SIUC),https://en.wikipedia.org/wiki/Shryock_Auditorium_(SIUC),1321
 35965.jpg,1918,82.57583°W,27.49611°N,Bradenton Carnegie Library,https://en.wikipedia.org/wiki/Bradenton_Carnegie_Library,480
 35970.jpg,1918,122.913944°W,39.0429278°N,Lakeport Carnegie Library,https://en.wikipedia.org/wiki/Lakeport_Carnegie_Library,206
-35975.jpg,1918,92.44611°W,31.31222°N,Hemenway Furniture Co. Building,https://en.wikipedia.org/wiki/Hemenway_Furniture_Co._Building,120
 35980.jpg,1918,73.5918833°W,43.089083°N,Victory Mills,https://en.wikipedia.org/wiki/Victory_Mills,1077
 35985.jpg,1918,91.421556°W,42.763639°N,Mederville Bridge,https://en.wikipedia.org/wiki/Mederville_Bridge,177
 35990.jpg,1918,93.25889°W,44.98333°N,Third Avenue Bridge (Minneapolis),https://en.wikipedia.org/wiki/Third_Avenue_Bridge_(Minneapolis),3037
@@ -7051,7 +7040,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 36170.jpg,1919,71.61944°W,33.04500°S,Biblioteca Santiago Severín,https://en.wikipedia.org/wiki/Biblioteca_Santiago_Sever%C3%ADn,330
 36175.jpg,1919,61.45858°W,10.47995°N,Indian Caribbean Museum of Trinidad and Tobago,https://en.wikipedia.org/wiki/Indian_Caribbean_Museum_of_Trinidad_and_Tobago,777
 36180.jpg,1919,92.24889°W,34.73222°N,"Climber Motor Car Factory, Unit A","https://en.wikipedia.org/wiki/Climber_Motor_Car_Factory,_Unit_A",233
-36185.jpg,1919,78.89889°W,42.92111°N,Mentholatum,https://en.wikipedia.org/wiki/Mentholatum,32191
 36190.jpg,1919,88.83194°W,43.46472°N,Weyenberg Shoe Factory,https://en.wikipedia.org/wiki/Weyenberg_Shoe_Factory,1233
 36195.jpg,1919,2.6251°W,53.2860°N,Dutton Horse Bridge,https://en.wikipedia.org/wiki/Dutton_Horse_Bridge,564
 36200.jpg,1919,73.97778°W,40.75194°N,Park Avenue Viaduct,https://en.wikipedia.org/wiki/Park_Avenue_Viaduct,14815
@@ -7611,7 +7599,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 39080.jpg,1927,99.0820827482922°W,40.69912442226541°N,World Theatre,https://en.wikipedia.org/wiki/World_Theatre,80
 39085.jpg,1927,71.8236194°W,42.2629278°N,Commerce Bank Field at Foley Stadium,https://en.wikipedia.org/wiki/Commerce_Bank_Field_at_Foley_Stadium,1192
 39090.jpg,1927,1.8403°W,52.4380°N,Hall Green Stadium,https://en.wikipedia.org/wiki/Hall_Green_Stadium,2084
-39100.jpg,1927,4.12306°W,55.84194°N,Mount Vernon Sports Stadium,https://en.wikipedia.org/wiki/Mount_Vernon_Sports_Stadium,399
 39110.jpg,1927,3.0850°W,50.9900°N,Taunton Racecourse,https://en.wikipedia.org/wiki/Taunton_Racecourse,1123
 39115.jpg,1927,83.0544°W,42.4292°N,Edmund Atkinson School,https://en.wikipedia.org/wiki/Edmund_Atkinson_School,880
 39120.jpg,1927,92.2989°W,34.7368°N,Little Rock Central High School,https://en.wikipedia.org/wiki/Little_Rock_Central_High_School,52809
@@ -7972,7 +7959,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 40930.jpg,1930,106.62083°W,35.08639°N,President's House (University of New Mexico),https://en.wikipedia.org/wiki/President%27s_House_(University_of_New_Mexico),286
 40935.jpg,1930,0.0532°W,51.64948°N,Ripaults Factory,https://en.wikipedia.org/wiki/Ripaults_Factory,926
 40940.jpg,1930,92.933528°W,47.427361°N,Sons of Italy Hall,https://en.wikipedia.org/wiki/Sons_of_Italy_Hall,324
-40945.jpg,1930,121.68639°W,48.17000°N,Three Fingers Lookout,https://en.wikipedia.org/wiki/Three_Fingers_Lookout,16100
 40950.jpg,1930,2.9501306°E,50.2462667°N,Vis-en-Artois Memorial,https://en.wikipedia.org/wiki/Vis-en-Artois_Memorial,507
 40960.jpg,1930,82.57472°W,27.51639°N,Woman's Club of Palmetto,https://en.wikipedia.org/wiki/Woman%27s_Club_of_Palmetto,198
 40965.jpg,1931,72.52831°W,42.387207°N,Curry Hicks Cage,https://en.wikipedia.org/wiki/Curry_Hicks_Cage,2320
@@ -8289,7 +8275,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 42570.jpg,1936,1.5355583°W,53.9924528°N,"Odeon Cinema, Harrogate","https://en.wikipedia.org/wiki/Odeon_Cinema,_Harrogate",335
 42575.jpg,1936,97.29917°W,36.28694°N,Perry Armory,https://en.wikipedia.org/wiki/Perry_Armory,226
 42585.jpg,1936,106.55111°W,35.30444°N,"Roosevelt School (Bernalillo, New Mexico)","https://en.wikipedia.org/wiki/Roosevelt_School_(Bernalillo,_New_Mexico)",103
-42590.jpg,1936,122.6461975°W,44.8512332°N,Silver Falls State Park,https://en.wikipedia.org/wiki/Silver_Falls_State_Park,31338
 42595.jpg,1936,24.8694806°E,60.198250°N,Studio Aalto,https://en.wikipedia.org/wiki/Studio_Aalto,1683
 42600.jpg,1936,23.91194°E,54.90000°N,Vytautas the Great War Museum,https://en.wikipedia.org/wiki/Vytautas_the_Great_War_Museum,3109
 42610.jpg,1937,97.7393°W,30.2861°N,Main Building (University of Texas at Austin),https://en.wikipedia.org/wiki/Main_Building_(University_of_Texas_at_Austin),22521
@@ -8501,7 +8486,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 43675.jpg,1940,72.5182167°W,42.3503583°N,Theodore Baird Residence,https://en.wikipedia.org/wiki/Theodore_Baird_Residence,3223
 43680.jpg,1940,1.7815°W,53.6445°N,Huddersfield Art Gallery,https://en.wikipedia.org/wiki/Huddersfield_Art_Gallery,534
 43685.jpg,1940,14.36528°E,67.26917°N,Bodø Main Air Station,https://en.wikipedia.org/wiki/Bod%C3%B8_Main_Air_Station,8335
-43690.jpg,1940,100.39917°W,31.42972°N,Goodfellow Air Force Base,https://en.wikipedia.org/wiki/Goodfellow_Air_Force_Base,26766
 43700.jpg,1940,91.40722°W,38.06278°N,Cuba Lodge No. 312 A.F. and A.M.,https://en.wikipedia.org/wiki/Cuba_Lodge_No._312_A.F._and_A.M.,159
 43705.jpg,1940,116.20750°W,43.60972°N,Idaho State Forester's Building,https://en.wikipedia.org/wiki/Idaho_State_Forester%27s_Building,87
 43710.jpg,1940,49.83444°E,40.36917°N,Monolith (building),https://en.wikipedia.org/wiki/Monolith_(building),449
@@ -8807,7 +8791,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 45290.jpg,1955,122.4019°W,37.7903°N,100 Montgomery Street,https://en.wikipedia.org/wiki/100_Montgomery_Street,1557
 45295.jpg,1955,71.09507°W,42.35812°N,Kresge Auditorium,https://en.wikipedia.org/wiki/Kresge_Auditorium,8726
 45300.jpg,1955,80.20844°E,13.09832°N,Integral Coach Factory,https://en.wikipedia.org/wiki/Integral_Coach_Factory,98746
-45305.jpg,1955,119.758°W,39.533°N,Nugget Casino Resort,https://en.wikipedia.org/wiki/Nugget_Casino_Resort,9707
 45310.jpg,1955,75.68865°W,45.38312°N,George Dunbar Bridge,https://en.wikipedia.org/wiki/George_Dunbar_Bridge,328
 45315.jpg,1955,24.1067505°E,56.9422588°N,"Railway Bridge, Riga","https://en.wikipedia.org/wiki/Railway_Bridge,_Riga",1396
 45320.jpg,1955,30.3001°E,59.9827°N,Ushakovsky Bridge,https://en.wikipedia.org/wiki/Ushakovsky_Bridge,190
@@ -8873,7 +8856,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 45655.jpg,1957,77.1668389°W,39.0076972°N,Robert Llewellyn Wright House,https://en.wikipedia.org/wiki/Robert_Llewellyn_Wright_House,3177
 45660.jpg,1957,35.197748°E,31.770007°N,Rabbi Dr. I. Goldstein Synagogue,https://en.wikipedia.org/wiki/Rabbi_Dr._I._Goldstein_Synagogue,503
 45665.jpg,1957,77.042002°W,38.907016°N,Jefferson Place Gallery,https://en.wikipedia.org/wiki/Jefferson_Place_Gallery,499
-45670.jpg,1957,79.8323°W,36.0859°N,Friendly Center,https://en.wikipedia.org/wiki/Friendly_Center,2556
 45675.jpg,1957,153.03333°E,27.38333°S,Westfield Chermside,https://en.wikipedia.org/wiki/Westfield_Chermside,18285
 45680.jpg,1957,2.3897°E,51.0303°N,Dunkirk Memorial,https://en.wikipedia.org/wiki/Dunkirk_Memorial,5903
 45685.jpg,1957,87.89715°W,43.04052°N,Milwaukee County War Memorial,https://en.wikipedia.org/wiki/Milwaukee_County_War_Memorial,2585
@@ -9311,7 +9293,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 48040.jpg,1971,83.648079°W,42.257809°N,Oestrike Stadium,https://en.wikipedia.org/wiki/Oestrike_Stadium,972
 48045.jpg,1971,11.98778°E,57.69917°N,Scandinavium,https://en.wikipedia.org/wiki/Scandinavium,48620
 48050.jpg,1971,0.4682°W,51.5519°N,Uxbridge Cricket Club Ground,https://en.wikipedia.org/wiki/Uxbridge_Cricket_Club_Ground,1179
-48060.jpg,1971,120.91611°E,14.48167°N,Naval Base Cavite,https://en.wikipedia.org/wiki/Naval_Base_Cavite,12539
 48065.jpg,1971,83.01706°W,39.994973°N,Prior Hall,https://en.wikipedia.org/wiki/Prior_Hall,427
 48070.jpg,1971,71.063437°W,42.362768°N,Boston Government Service Center,https://en.wikipedia.org/wiki/Boston_Government_Service_Center,6741
 48075.jpg,1971,122.32944°W,47.60306°N,King County Administration Building,https://en.wikipedia.org/wiki/King_County_Administration_Building,976
@@ -9490,7 +9471,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 49040.jpg,1976,94.58585°W,39.24949°N,Metro North Mall,https://en.wikipedia.org/wiki/Metro_North_Mall,6224
 49045.jpg,1976,97.43386°W,32.74135°N,Ridgmar Mall,https://en.wikipedia.org/wiki/Ridgmar_Mall,5970
 49050.jpg,1976,97.3670°W,31.0707°N,Temple Mall,https://en.wikipedia.org/wiki/Temple_Mall,2554
-49055.jpg,1976,79.394583°W,43.670976°N,Yorkville Village,https://en.wikipedia.org/wiki/Yorkville_Village,1809
 49060.jpg,1976,69.892416°W,18.471237°N,Altar de la Patria,https://en.wikipedia.org/wiki/Altar_de_la_Patria,4888
 49065.jpg,1976,150.96250°E,33.83111°S,Central Gardens Nature Reserve,https://en.wikipedia.org/wiki/Central_Gardens_Nature_Reserve,1565
 49070.jpg,1976,20.51222°E,44.78417°N,Eastern City Gate,https://en.wikipedia.org/wiki/Eastern_City_Gate,10623
@@ -9931,7 +9911,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 51445.jpg,1989,3.47694°W,56.40972°N,McDiarmid Park,https://en.wikipedia.org/wiki/McDiarmid_Park,22815
 51455.jpg,1989,74.61401417890642°E,30.946265616632086°N,Shaheed Bhagat Singh Stadium,https://en.wikipedia.org/wiki/Shaheed_Bhagat_Singh_Stadium,2047
 51460.jpg,1989,137.3249361°E,34.7581083°N,Toyohashi City General Gymnasium,https://en.wikipedia.org/wiki/Toyohashi_City_General_Gymnasium,1129
-51465.jpg,1989,117.849561°W,33.729649°N,"Century High School (Santa Ana, California)","https://en.wikipedia.org/wiki/Century_High_School_(Santa_Ana,_California)",2464
 51470.jpg,1989,144.970260°E,37.810799°S,222 Exhibition Street (TAC House),https://en.wikipedia.org/wiki/222_Exhibition_Street_(TAC_House),400
 51475.jpg,1989,73.98389°W,40.76083°N,750 Seventh Avenue,https://en.wikipedia.org/wiki/750_Seventh_Avenue,5918
 51480.jpg,1989,90.078035°W,29.951336°N,Benson Tower (New Orleans),https://en.wikipedia.org/wiki/Benson_Tower_(New_Orleans),2499
@@ -10334,7 +10313,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 53625.jpg,1999,149.8405119972°W,61.10162700000°N,Anchorage Alaska Temple,https://en.wikipedia.org/wiki/Anchorage_Alaska_Temple,3203
 53630.jpg,1999,80.8939809972°W,33.9596379972°N,Columbia South Carolina Temple,https://en.wikipedia.org/wiki/Columbia_South_Carolina_Temple,2194
 53635.jpg,1999,63.4890469972°W,44.6700000000°N,Halifax Nova Scotia Temple,https://en.wikipedia.org/wiki/Halifax_Nova_Scotia_Temple,2075
-53640.jpg,1999,0.2712°E,51.4396°N,Bluewater Shopping Centre,https://en.wikipedia.org/wiki/Bluewater_Shopping_Centre,10735
 53650.jpg,1999,103.764194°E,1.461194°N,Johor Bahru City Square,https://en.wikipedia.org/wiki/Johor_Bahru_City_Square,10635
 53655.jpg,1999,0.97239°W,51.45328°N,"The Oracle, Reading","https://en.wikipedia.org/wiki/The_Oracle,_Reading",11191
 53660.jpg,1999,77.062917°W,38.863417°N,Westpost at National Landing,https://en.wikipedia.org/wiki/Westpost_at_National_Landing,54
@@ -10354,7 +10332,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 53735.jpg,2000,76.11639°W,43.01444°N,Tennity Ice Skating Pavilion,https://en.wikipedia.org/wiki/Tennity_Ice_Skating_Pavilion,1588
 53740.jpg,2000,93.10111°W,44.94472°N,Xcel Energy Center,https://en.wikipedia.org/wiki/Xcel_Energy_Center,78990
 53745.jpg,2000,118.329979°W,34.100412°N,Hotel Café,https://en.wikipedia.org/wiki/Hotel_Caf%C3%A9,6898
-53750.jpg,2000,119.12111°W,34.12028°N,Naval Base Ventura County,https://en.wikipedia.org/wiki/Naval_Base_Ventura_County,29890
 53755.jpg,2000,76.7411°W,40.2043°N,Penn State Harrisburg Library,https://en.wikipedia.org/wiki/Penn_State_Harrisburg_Library,365
 53760.jpg,2000,90.1970°W,38.6254°N,Thomas F. Eagleton United States Courthouse,https://en.wikipedia.org/wiki/Thomas_F._Eagleton_United_States_Courthouse,7833
 53765.jpg,2000,114.2455°E,30.4846°N,Baishazhou Yangtze River Bridge,https://en.wikipedia.org/wiki/Baishazhou_Yangtze_River_Bridge,353
@@ -10984,7 +10961,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 57175.jpg,2015,121.37000°E,25.06083°N,Global Mall Taoyuan A8,https://en.wikipedia.org/wiki/Global_Mall_Taoyuan_A8,821
 57180.jpg,2015,66.0254°W,18.4121°N,The Mall of San Juan,https://en.wikipedia.org/wiki/The_Mall_of_San_Juan,3721
 57185.jpg,2015,120.9544°E,15.4669°N,SM City Cabanatuan,https://en.wikipedia.org/wiki/SM_City_Cabanatuan,6926
-57190.jpg,2015,120.232972°E,22.990722°N,T.S. Mall,https://en.wikipedia.org/wiki/T.S._Mall,3082
 57195.jpg,2015,76.65512°W,40.29354°N,Laff Trakk,https://en.wikipedia.org/wiki/Laff_Trakk,5328
 57200.jpg,2015,121.32089°W,44.05029°N,Bend Whitewater Park,https://en.wikipedia.org/wiki/Bend_Whitewater_Park,319
 57205.jpg,2015,113.3262°E,23.1240°N,Fortune Center,https://en.wikipedia.org/wiki/Fortune_Center,1107
@@ -11029,7 +11005,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 57430.jpg,2017,122.67590133641411°W,45.51691522461549°N,AC Hotel Portland Downtown,https://en.wikipedia.org/wiki/AC_Hotel_Portland_Downtown,299
 57435.jpg,2017,121.05206°E,14.55696°N,Metrobank Center,https://en.wikipedia.org/wiki/Metrobank_Center,21712
 57440.jpg,2017,113.09639°W,37.67167°N,Cedar City Utah Temple,https://en.wikipedia.org/wiki/Cedar_City_Utah_Temple,3161
-57445.jpg,2017,1.7564°W,53.7941°N,BD1 Gallery,https://en.wikipedia.org/wiki/BD1_Gallery,199
 57450.jpg,2017,73.369314°W,42.333203°N,Turn Park Art Space,https://en.wikipedia.org/wiki/Turn_Park_Art_Space,320
 57455.jpg,2017,121.06488°E,14.58070°N,Ayala Malls The 30th,https://en.wikipedia.org/wiki/Ayala_Malls_The_30th,5465
 57470.jpg,2017,172.63149°E,43.53455°S,Canterbury Earthquake National Memorial,https://en.wikipedia.org/wiki/Canterbury_Earthquake_National_Memorial,1428
@@ -11093,7 +11068,6 @@ Picture,Year,Longitude,Latitude,Building,Source,Views
 57805.jpg,2022,121.5068°E,25.0389°N,Cathay Zhonghua Tower,https://en.wikipedia.org/wiki/Cathay_Zhonghua_Tower,405
 57810.jpg,2022,145.30944°E,38.12417°S,"City Football Academy (Melbourne, 2022)","https://en.wikipedia.org/wiki/City_Football_Academy_(Melbourne,_2022)",687
 57815.jpg,2022,21.913917°E,47.046000°N,Oradea Arena,https://en.wikipedia.org/wiki/Oradea_Arena,1983
-57820.jpg,2022,151.22528°E,33.88917°S,Sydney Football Stadium (2022),https://en.wikipedia.org/wiki/Sydney_Football_Stadium_(2022),125035
 57825.jpg,2022,26.63611°E,40.34000°N,1915 Çanakkale Bridge,https://en.wikipedia.org/wiki/1915_%C3%87anakkale_Bridge,180617
 57830.jpg,2022,120.9293917°E,27.9802611°N,Oujiang Beikou Bridge,https://en.wikipedia.org/wiki/Oujiang_Beikou_Bridge,423
 57835.jpg,2022,54.406101°E,24.530933°N,Abrahamic Family House,https://en.wikipedia.org/wiki/Abrahamic_Family_House,56628
