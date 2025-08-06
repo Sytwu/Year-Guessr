@@ -107,12 +107,5 @@ Many thanks to the following repositories:
 If you find this codebase helpful, please consider to cite:
 
 ```
-@inproceedings{
-  szu-tu2025yearguessr,
-  title={YearGuessr: A Worldwide Building Age Benchmark with 55k Wikipedia Images and Ordinal Targets},
-  author={Li-Zhong Szu-Tu and Ting-Lin Wu and Chia-Jui Chang and He Syu and Yu-Lun Liu},
-  booktitle={The 4th DataCV Workshop and Challenge with ICCV2025},
-  year={2025},
-  url={https://openreview.net/forum?id=ITKg1RQD4q}
-}
+TBD
 ```
