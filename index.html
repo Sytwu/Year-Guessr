@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG" />
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG" />
+  <meta property="og:url" content="URL OF THE WEBSITE" />
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>YearGuessr</title>
+  <link rel="icon" type="image/x-icon" href="static/images/skyscraper.png">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <!-- <h1 class="title is-1 publication-title">YearGuessr: A Worldwide Building Age Benchmark with 55k Wikipedia
+              Images and Ordinal Targets</h1> -->
+            <h1 class="title is-1 publication-title">
+              Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in
+              Vision-Language Models</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="#" target="_blank">Li-Zhong Szu-Tu</a><sup>*</sup>,</span>
+              <span class="author-block">
+                <a href="#" target="_blank">Ting-Lin Wu</a><sup>*</sup>,</span>
+              <span class="author-block">
+                <a href="#" target="_blank">Chia-Jui Chang</a><sup></sup>,</span>
+              <span class="author-block">
+                <a href="#" target="_blank">He Syu</a><sup></sup>,</span>
+              <span class="author-block">
+                <a href="https://yulunalexliu.github.io/" target="_blank">Yu-Lun Liu</a>
+              </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">National Yang Ming Chiao Tung University</span>
+              <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+
+                <!-- Arxiv PDF link -->
+                <!--
+                      <span class="link-block">
+                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper (Coming Soon)</span>
+                        </a>
+                      </span>
+                      -->
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2512.21337" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.com/Sytwu/Year-Guessr" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!--HuggingFace Dataset Link -->
+                <span class="link-block">
+                  <a href="https://huggingface.co/datasets/Morris0401/Year-Guessr-Dataset" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <img src="static/images/huggingface-color.svg" alt="Hugging Face Icon">
+                    </span>
+                    <span>Dataset</span>
+                  </a>
+                </span>
+
+                <!-- Statistics Link -->
+                <span class="link-block">
+                  <a href="https://docs.google.com/spreadsheets/d/1o_T1q3JrN1RZb0eFZMPdwurzhlDoot-qeKGvxWpzrr8/edit?usp=sharing"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-table"></i>
+                    </span>
+                    <span>Statistics</span>
+                  </a>
+                </span>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Teaser Image-->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <div class="item">
+          <!-- Your image here -->
+          <img src="static/images/teaser.jpg" alt="MY ALT TEXT" />
+          <h2 class="subtitle">
+            <b>Overview of YearGuessr.</b>
+            <b>(a)</b> Global distribution of the 55k Wikipedia-sourced building images.
+            <b>(b)</b> Log-scale histogram of construction years spanning 1001∼2024 CE.
+            <b>(c)</b> A detailed example entry from our dataset, including an image, descriptive text, and various
+            building attributes such as year, coordinates, and views.
+            <b>(d)</b> Given an image and optional GPS coordinates, YearCLIP returns the estimated construction year
+            together with architectural rationales.
+          </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End teaser image -->
+
+  <!-- Paper abstract -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              Building age matters for sustainability, heritage, and safety, yet no public benchmark is both global and
+              ordinal. YearGuessr fills this gap with 55,546 Wikipedia facades from 157 countries, continuously labeled
+              across 1001~2024 CE and paired with GPS, captions, and page-view counts. We frame age prediction as
+              ordinal regression and introduce popularity-weighted MAE plus interval accuracy (± 5/20/50/100 year). We
+              benchmark 30+ models, including CNN-based, Transformer-based, CLIP-based models, and VLMs. Our dataset is
+              CC BY-SA 4.0 licensed at
+              <a href="https://huggingface.co/datasets/Morris0401/Year-Guessr-Dataset" style="color:steelblue">Here</a>!
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End paper abstract -->
+
+
+  <!-- Data Pipeline -->
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container carousel-container">
+        <div class="tab-content-wrapper pipeline-container">
+          <div id="pipeline-tab0" class="tab-pane active">
+            <img src="static/images/Data_Pipeline.jpg" alt="Data Pipeline Overview" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Data Pipeline Overview.</b>
+            </h2>
+          </div>
+          <div id="pipeline-tab1" class="tab-pane">
+            <img src="static/images/Collection.jpg" alt="Data Collection" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Data Collection Pipeline.</b>
+            </h2>
+          </div>
+          <div id="pipeline-tab2" class="tab-pane">
+            <img src="static/images/Cleaning.jpg" alt="Data Cleaning" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Data Cleaning Pipeline.</b>
+            </h2>
+          </div>
+          <div id="pipeline-tab3" class="tab-pane">
+            <img src="static/images/Cleaning_Example.jpg" alt="Cleaning Example" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Data Cleaning Example.</b>
+            </h2>
+          </div>
+        </div>
+        <div class="tabs-nav">
+          <button class="tab-btn active" onclick="openTab(event, 'pipeline-tab0')">All</button>
+          <button class="tab-btn" onclick="openTab(event, 'pipeline-tab1')">Collection</button>
+          <button class="tab-btn" onclick="openTab(event, 'pipeline-tab2')">Cleaning</button>
+          <button class="tab-btn" onclick="openTab(event, 'pipeline-tab3')">Cleaning Example</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Data Pipeline -->
+
+  <!-- YearGuessr Dataset Explanation -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">YearGuessr Dataset</h2>
+          <div class="content has-text-justified">
+            <p>
+              The data collection for YearGuessr is a two-stage process. The first stage involves using the Wikipedia
+              website and related tools to acquire around 90,000 data entries. These entries include images,
+              construction years, building names, GPS coordinates, textual descriptions from the Wiki pages, and
+              one-year pageview counts. In the next stage, the data is processed through deduplication, a model-based
+              filter, and human auditing, resulting in a final dataset of 55,546 entries.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End YearGuessr Dataset Explanation -->
+
+
+  <!-- Dataset Statistics -->
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container carousel-container">
+        <div class="tab-content-wrapper stats-container">
+          <div id="stat-tab0" class="tab-pane active">
+            <img src="static/images/statistics_analysis.jpg" alt="Statistics Overview" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Dataset Statistics Overview.</b>
+            </h2>
+          </div>
+          <div id="stat-tab1" class="tab-pane">
+            <img src="static/images/Continent.jpg" alt="Continent Statistics" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Data Distribution by Continent.</b>
+            </h2>
+          </div>
+          <div id="stat-tab2" class="tab-pane">
+            <img src="static/images/BuiltYear.jpg" alt="Built Year Statistics" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Distribution by Construction Year.</b>
+            </h2>
+          </div>
+          <div id="stat-tab3" class="tab-pane">
+            <img src="static/images/PageView.jpg" alt="Page View Statistics" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Distribution by Page Views.</b>
+            </h2>
+          </div>
+          <div id="stat-tab4" class="tab-pane">
+            <img src="static/images/Renovation.jpg" alt="Renovation Statistics" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Distribution by Renovation Status.</b>
+            </h2>
+          </div>
+          <div id="stat-tab5" class="tab-pane">
+            <img src="static/images/RuralUrban.jpg" alt="Rural Urban Statistics" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Distribution by Rural/Urban Areas.</b>
+            </h2>
+          </div>
+        </div>
+        <div class="tabs-nav">
+          <button class="tab-btn active" onclick="openTab(event, 'stat-tab0')">All</button>
+          <button class="tab-btn" onclick="openTab(event, 'stat-tab1')">Continent</button>
+          <button class="tab-btn" onclick="openTab(event, 'stat-tab2')">Built Year</button>
+          <button class="tab-btn" onclick="openTab(event, 'stat-tab3')">Page Views</button>
+          <button class="tab-btn" onclick="openTab(event, 'stat-tab4')">Renovation</button>
+          <button class="tab-btn" onclick="openTab(event, 'stat-tab5')">Rural/Urban</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Dataset Statistics -->
+
+  <!-- Statistics Analysis Explanation -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Statistics Analysis</h2>
+          <div class="content has-text-justified">
+            <p>
+              We analyzed the data distribution, including geographical location, time period, views (popularity),
+              location population density (rural/urban areas), and building updates. Geographically, the data is
+              concentrated in the Americas and Europe (63.31%, 22.48%). Temporally, it is concentrated in the modern era
+              (1800-2024). Views are mainly between 100 and 10,000 (83.89%). The building locations are predominantly
+              urban (46.37%), and most buildings have undergone updates (without changing the construction year,
+              52.99%).
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Statistics Analysis Explanation -->
+
+
+  <!-- YearCLIP Architecture -->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <div class="item">
+          <!-- Your image here -->
+          <br>
+          <img src="static/images/yearclip_architecture.jpg" alt="MY ALT TEXT" />
+          <h2 class="subtitle has-text-centered">
+            <b>YearCLIP Architecture.</b>
+          </h2>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End YearCLIP Architecture -->
+
+  <!-- YearCLIP Explanation -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">YearCLIP Model</h2>
+          <div class="content has-text-justified">
+            <p>
+              YearCLIP uses NumCLIP as its backbone and improves performance for ordinal regression (construction year
+              estimation) through language priors and a coarse-to-fine approach. For input, YearCLIP fuses image and
+              optional coordinate information. For pre-defined inputs, it first defines a set of coarse year classes and
+              reasoning reasons. In the process, YearCLIP calculates the similarities between the input and these
+              pre-defined inputs, then uses as the input for a regressor to calculate a more precise year.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End YearCLIP Explanation -->
+
+
+  <!-- Explainability Section -->
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container carousel-container">
+        <div class="tab-content-wrapper">
+          <div id="explain-tab1" class="tab-pane active">
+            <!-- Your image here -->
+            <img src="static/images/explainability_example1.png" alt="Explainability Example 1" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Explainable Age Predictions with YearCLIP - YearGuessr.</b>
+            </h2>
+          </div>
+          <div id="explain-tab2" class="tab-pane">
+            <!-- Your image here -->
+            <img src="static/images/explainability_example2.png" alt="Explainability Example 2" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Explainable Age Predictions with YearCLIP - FI-London (SVI).</b>
+            </h2>
+          </div>
+          <div id="explain-tab3" class="tab-pane">
+            <!-- Your image here -->
+            <img src="static/images/explainability_example3.png" alt="Explainability Example 3" />
+            <h2 class="subtitle has-text-centered">
+              <br>
+              <b>Explainable Age Predictions with YearCLIP - MapYourCity (SVI).</b>
+            </h2>
+          </div>
+        </div>
+        <div class="tabs-nav">
+          <button class="tab-btn active" onclick="openTab(event, 'explain-tab1')">Explainability 1</button>
+          <button class="tab-btn" onclick="openTab(event, 'explain-tab2')">Explainability 2</button>
+          <button class="tab-btn" onclick="openTab(event, 'explain-tab3')">Explainability 3</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Explainability Section -->
+
+  <!-- Explainability Explanation -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Explainability</h2>
+          <div class="content has-text-justified">
+            <p>
+              A key advantage of YearCLIP is its ability to provide interpretable predictions through architectural
+              reasoning.
+              By leveraging language priors and similarity scores across predefined year ranges and reasoning templates,
+              YearCLIP can explain its predictions with human-readable rationales such as architectural styles,
+              materials,
+              and design elements.
+            </p>
+            <p>
+              We demonstrate YearCLIP's explainability on three different datasets: our YearGuessr benchmark,
+              FI-London (a Street View Imagery dataset), and MapYourCity (another SVI dataset).
+              The model successfully identifies architectural features and provides coherent explanations across
+              diverse building types and geographical locations, showcasing its robustness and interpretability.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Explainability Explanation -->
+
+  <!-- Experimental Results Section -->
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container carousel-container">
+        <div class="tab-content-wrapper">
+          <div id="result-tab1" class="tab-pane active">
+            <!-- Your image here -->
+            <img src="static/images/basic_metric.jpg" alt="Basic Metrics" />
+            <h2 class="subtitle has-text-centered">
+              <b>Performance on Basic Metrics and Accuracy within Intervals.</b>
+            </h2>
+          </div>
+          <div id="result-tab2" class="tab-pane">
+            <!-- Your image here -->
+            <img src="static/images/popularity_bias.jpg" alt="Popularity Metrics" />
+            <h2 class="subtitle has-text-centered">
+              <b>Performance on Popularity-Based Metrics.</b>
+            </h2>
+          </div>
+          <div id="result-tab3" class="tab-pane">
+            <!-- Your image here -->
+            <img src="static/images/region_period.jpg" alt="Region and Period" />
+            <h2 class="subtitle has-text-centered">
+              <b>Performance on Different Regions and Periods.</b>
+            </h2>
+          </div>
+          <div id="result-tab4" class="tab-pane">
+            <!-- Your image here -->
+            <img src="static/images/population_density_renovation.jpg" alt="Density and Renovation" />
+            <h2 class="subtitle has-text-centered">
+              <b>Performance on Different Population Density and Renovation Types.</b>
+            </h2>
+          </div>
+        </div>
+        <div class="tabs-nav">
+          <button class="tab-btn active" onclick="openTab(event, 'result-tab1')">Basic Metrics</button>
+          <button class="tab-btn" onclick="openTab(event, 'result-tab2')">Popularity Metrics</button>
+          <button class="tab-btn" onclick="openTab(event, 'result-tab3')">Regions & Periods</button>
+          <button class="tab-btn" onclick="openTab(event, 'result-tab4')">Density & Renovation</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Experimental Results Section -->
+
+  <!-- Experimental Results Explanation-->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Experimental Results</h2>
+          <div class="content has-text-justified">
+            <p>
+              We compared the results of over 40 models (more details in the supplementary material) on YearGuessr,
+              including major categories like CNN, Transformer, CLIP-based, Closed VLM, and Open VLM.
+              We visualized some of YearCLIP's prediction results and evaluated performance using MAE and Interval
+              Accuracy (IA).
+              Among the CLIP-based methods, YearCLIP has the lowest <span style="color:red"">MAE at 39.52</span>.
+            We found that VLMs generally perform better, but when calculated separately by popularity, <span style="
+                color:red"">VLMs have a clear popularity bias</span>.
+              Other common attributes that reduce performance include continents with less building data, very old
+              construction years, remote areas, and buildings that have been rebuilt.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Experimental Results Explanation -->
+
+
+
+
+  <!-- Youtube video -->
+  <!--
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      
+      <h2 class="title is-3">Video Presentation</h2>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          
+          <div class="publication-video">
+            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+  <!-- End youtube video -->
+
+
+  <!-- Video carousel -->
+  <!--
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3">Another Carousel</h2>
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item item-video1">
+          <video poster="" id="video1" autoplay controls muted loop height="100%">
+            <source src="static/videos/carousel1.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video2">
+          <video poster="" id="video2" autoplay controls muted loop height="100%">
+            <source src="static/videos/carousel2.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-video3">
+          <video poster="" id="video3" autoplay controls muted loop height="100%">\
+            <source src="static/videos/carousel3.mp4"
+            type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+  <!-- End video carousel -->
+
+
+
+
+
+
+  <!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>
+@misc{szutu2025memorizationmultimodalordinalregression,
+      title={Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models}, 
+      author={Li-Zhong Szu-Tu and Ting-Lin Wu and Chia-Jui Chang and He Syu and Yu-Lun Liu},
+      year={2025},
+      eprint={2512.21337},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.21337}, 
+}
+      </code></pre>
+    </div>
+  </section>
+  <!--End BibTex citation -->
+
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template"
+                target="_blank">Academic Project Page Template</a> which was adopted from the <a
+                href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+              You are free to borrow the source code of this website, we just ask that you link back to this page in the
+              footer. <br> This website is licensed under a <a rel="license"
+                href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+                Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Statcounter tracking code -->
+
+  <!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+  <!-- End of Statcounter Code -->
+
+</body>
+
+</html>
